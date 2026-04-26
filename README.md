@@ -34,8 +34,9 @@ OrthoFlow is run via an **R script** with the required and optional parameters, 
 <li>and its visualization via the cumulative variance using GNUPlot</li>
 <li>and, if possible, the number of threads to use.</li>
 </ul>
+
 OrthoFlow performs parameter-based SVD with the *maximum possible system performance* and saves the results in CSV and binary NPY formats.
 In addition, information about the SVD operation is saved as an `svd.json` file, and the scaling method used is saved as a `scaler.json` file.
-If GNUPlot is installed, information regarding the *reduction factor k* is saved as a graphic file named scree.png.
+If GNUPlot is installed, information regarding the *reduction factor k* is saved as a graphic file named `scree.png`.
 
 Of course, a log of the entire internal OrthFlow pipeline is also stored in the *log directory*. This makes it easy to determine whether, for example, loading the data or the SVD was the main factor affecting runtime. 
