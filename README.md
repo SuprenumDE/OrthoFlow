@@ -40,3 +40,7 @@ In addition, information about the SVD operation is saved as an `svd.json` file,
 If GNUPlot is installed, information regarding the *reduction factor k* is saved as a graphic file named `scree.png`.
 
 Of course, a log of the entire internal OrthFlow pipeline is also stored in the *log directory*. This makes it easy to determine whether, for example, loading the data or the SVD was the main factor affecting runtime. 
+
+And of course, it’s also possible to integrate OrthoFlow into a **Python workflow**.
+
+
