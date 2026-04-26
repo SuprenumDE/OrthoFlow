@@ -17,7 +17,7 @@ OrthoFlow integrates a workflow that includes reading in the
 
 ![Workflow](https://github.com/SuprenumDE/EigenNET/blob/main/images/Workflow.png).
 
-### ... and the potential integration into an R-Dense_NN workflow when dimensionality reduction is required:
+... and the *potential integration into an R-Dense_NN workflow* when dimensionality reduction is required:
 
 ![Workflow](https://github.com/SuprenumDE/EigenNET/blob/main/images/R_Workflow.png).
 
