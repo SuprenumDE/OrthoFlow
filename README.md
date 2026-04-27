@@ -43,4 +43,7 @@ Of course, a log of the entire internal OrthFlow pipeline is also stored in the 
 
 And of course, it’s also possible to integrate OrthoFlow into a **Python workflow**.
 
+## OrthoFlow Installation
 
+For the OrthoFlow installation, *MSI* files are provided *for Windows*, and if the installation is to be performed on *Linux*, the *src* and *include directories* containing the necessary C++ files are provided.
+The *installation directory structure* corresponds to the Dense_NN structure. This ensures seamless integration into the deep learning workflow. Please refer to the Dense_NN documentation for details. 
