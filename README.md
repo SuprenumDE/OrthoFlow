@@ -46,4 +46,4 @@ And of course, it’s also possible to integrate OrthoFlow into a **Python workf
 ## OrthoFlow Installation
 
 For the OrthoFlow installation, *MSI* files are provided *for Windows*, and if the installation is to be performed on *Linux*, the *src* and *include directories* containing the necessary C++ files are provided.
-The *installation directory structure* corresponds to the Dense_NN structure. This ensures seamless integration into the deep learning workflow. Please refer to the [Dense_NN](https://github.com/SuprenumDE/Dense_NN#where-can-i-find-which-files) documentation for details. 
+The *installation directory structure* corresponds to the Dense_NN structure. Installing the software in the *Dense_NN folder* ensures seamless integration into your deep learning workflow. Please refer to the [Dense_NN](https://github.com/SuprenumDE/Dense_NN#where-can-i-find-which-files) documentation for details. 
