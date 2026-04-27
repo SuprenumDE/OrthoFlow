@@ -12,5 +12,8 @@ The R scripts *shown here* refer to the [**Dense_NN R scripts**](https://github.
 
 <h3>R scripts</h3>
 
-1. 
+1. [OrthoFlow and the CIFAR10 dataset](https://github.com/SuprenumDE/OrthoFlow/blob/main/R%20scripts/CIFAR_10_OrthoFlow.R).
+<p>Training a deep learning model using the CIFAR10 dataset requires a large number of model parameters to achieve sufficient prediction quality. This has a significant impact on training performance. Using an SVD, which is implemented as a high-performance feature in OrthoFlow, the dimension of the input (image) matrix can be significantly reduced without any significant loss of information. This significantly reduces the number of network parameters and substantially improves training performance. The use of OrthoFlow is described in this R script as an example.</p>
+
+
 
