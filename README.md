@@ -28,9 +28,9 @@ The following illustration provides a more detailed overview of the **R-OrthoFlo
 OrthoFlow is run via an **R script** with the required and optional parameters, such as
 <ul>
 <li>input matrix in CSV format</li>
-<li>SVD method (Jacobi, BDC, or MKL)</li>
+<li>SVD method (Jacobi, BDC or MKL)</li>
 <li>scaling method</li>
-<li>threshold k for dimensionality reduction</li>
+<li>threshold <strong>k</strong> for dimensionality reduction</li>
 <li>and its visualization via the cumulative variance using GNUPlot</li>
 <li>and, if possible, the number of threads to use.</li>
 </ul>
