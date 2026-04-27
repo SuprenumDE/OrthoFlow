@@ -2,7 +2,9 @@
 ![OrthoFlow](https://github.com/SuprenumDE/EigenNET/blob/main/images/OrthoFlow.ico) <h3>Resources</h3>
 
 
-Here you will find examples of how to **integrate OrthoFlow into R-Dense_NN workflows**.
+Here you will find examples of how to **integrate OrthoFlow into R-Dense_NN workflows**:
+
+![R-Workflow](https://github.com/SuprenumDE/EigenNET/blob/main/images/R_Workflow.png)
 
 The OrthoFlow application is useful when the **matrix dimension needs to be reduced**. This reduction is reflected in the **number of parameters in a deep learning architecture** and thus impacts performance. 
 
