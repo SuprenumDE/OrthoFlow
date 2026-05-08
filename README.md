@@ -43,7 +43,7 @@ Of course, a log of the entire internal OrthFlow pipeline is also stored in the 
 
 And of course, it’s also possible to integrate OrthoFlow into a **Python workflow**.
 
-The **OrthoFlow_EN** presentation, available as a PDF file, provides a comprehensive overview of the OrthoFlow project.
+The [**OrthoFlow_EN**](https://github.com/SuprenumDE/OrthoFlow/blob/main/OrthoFlow_EN.pdf) presentation, available as a PDF file, provides a *comprehensive overview* of the OrthoFlow project.
 
 ## OrthoFlow Installation
 
